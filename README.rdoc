@@ -15,9 +15,9 @@ Python version: 2.7.x
 
 Depedencies list:
 
-pybrain
-scipy
-numpy
+1.pybrain
+2.scipy
+3.numpy
 
 
 Dataset 
@@ -26,6 +26,11 @@ Dataset can be downloaded from: http://gorillamatrix.com/files/nist-sd19.rar
 Note that it is a huge dataset. More than 1GB. 
 ------------------
 
+Guiding papers
+---------------
+http://www.cs.stanford.edu/~acoates/papers/coatesetal_icdar_2011.pdf
+http://jhd.cai.swufe.edu.cn/MachineLearning2012/ML_Lecture18.pdf
 
+-------------------
 
 
