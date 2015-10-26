@@ -1,0 +1,11 @@
+#Ignore the dataset of images
+*.bmp
+
+#Ignore the dataset directories
+/F00*/*
+
+#Ignore temporary files
+*~
+*.swp
+*.swo
+
