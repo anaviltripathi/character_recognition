@@ -1,0 +1,31 @@
+== README
+------------------------------------------------------
+This is for Character Recognition using Deep Neural Networks
+
+------------------------------------------------------
+
+Project Development : In Progress
+
+Team
+-------
+-> Anavil
+------------ 
+
+Python version: 2.7.x
+
+Depedencies list:
+
+pybrain
+scipy
+numpy
+
+
+Dataset 
+---------------
+Dataset can be downloaded from: http://gorillamatrix.com/files/nist-sd19.rar
+Note that it is a huge dataset. More than 1GB. 
+------------------
+
+
+
+
