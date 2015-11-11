@@ -4,6 +4,9 @@
 #Ignore the dataset directories
 /F00*/*
 
+#Ignore the idea directory
+/.idea/*
+
 #Ignore temporary files
 *~
 *.swp
